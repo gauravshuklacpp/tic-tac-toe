@@ -1,0 +1,13 @@
+.board {
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+column-gap: 2px;
+row-gap: 2px;
+}
+
+.pages {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

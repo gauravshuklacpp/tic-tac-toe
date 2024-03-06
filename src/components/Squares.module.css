@@ -1,0 +1,11 @@
+.squares {
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
